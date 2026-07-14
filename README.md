@@ -204,5 +204,21 @@ git commit -m "feat: complete HTML template with all sections"
 ## 📝 License
 
 For educational/academic use only — AI Fundamentals Lab Assessment 2026.
-Commit title: add project archive and comprehensive README
+Commit title :
+add project archive and comprehensive README
+
+Commit description:
+
+Added the complete project as a ZIP archive due to repository file structure
+and upload constraints encountered during collaboration.
+
+Also included a comprehensive README containing:
+- Project overview
+- Features and functionality
+- Technology stack
+- Installation and setup instructions
+- Project structure
+- Team contribution summary
+
+This commit serves as a complete snapshot of the project's current state.
 
