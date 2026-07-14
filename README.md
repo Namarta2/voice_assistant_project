@@ -204,3 +204,5 @@ git commit -m "feat: complete HTML template with all sections"
 ## 📝 License
 
 For educational/academic use only — AI Fundamentals Lab Assessment 2026.
+Commit title: add project archive and comprehensive README
+
